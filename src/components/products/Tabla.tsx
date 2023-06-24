@@ -1,7 +1,6 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 
-type Props = {};
 
 const Tabla = () => {
   const [products, setProducts] = useState([]);

@@ -9,6 +9,8 @@ export default function App() {
   return (
     <Router>
       <Navbar />
+      
+      <br />
       <Routes>
         <Route path="/" element={<Tabla/>} />
         <Route path="/:id" element={<TablaEdit/>} />
