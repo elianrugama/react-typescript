@@ -1,4 +1,4 @@
 # react-typescript
 #
-https://stately-gecko-8929f3.netlify.app/
+https://649f1d444d75162ac6233a46--incandescent-scone-cf6594.netlify.app/
 #
